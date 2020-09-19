@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": "bffc7f8c-71c0-44bf-b606-8f52f96feaa3",
+      "title": "Go to badminton",
+      "completed": false
+    },
+    {
+      "id": "9585ddae-dc35-4bd5-8e83-06159c2c1c9c",
+      "title": "Get Sai Varshith gift",
+      "completed": false
+    },
+    {
+      "id": "5183e4c4-0577-4d55-9479-6e2fdae56fe8",
+      "title": "To study English",
+      "completed": false
+    },
+    {
+      "id": "7d3226ad-b8df-40a4-a1cc-9d9900d9d8b9",
+      "title": "Teach Maths to Sai Varshith",
+      "completed": false
+    },
+    {
+      "id": "f94f7b2a-c765-4f45-a7c0-d2ec70ad0f63",
+      "title": "Give substractions involving substractions",
+      "completed": false
+    }
+  ]
+}
